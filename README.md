@@ -4,17 +4,22 @@
 
 Seja bem vindo ao projeto base de CRUD Javasript.
 
-### Funcionalidades
+## Funcionalidades
 
 - Cadastrar
 - Listar
 - Editar
 - Excluir
 
-![demo_light_02](https://github.com/GiselleBarbosa/crud-javascript/blob/main/src/img/Tela%20Login.jpg?raw=true)
-
-![demo_light_02](https://github.com/GiselleBarbosa/crud-javascript/blob/main/src/img/Tela%20inicial.jpg?raw=true)
-
 ## Onde está o Layout base do projeto?
 
-- [Confira]`https://crud-javascript-five.vercel.app/`
+`https://crud-javascript-five.vercel.app/`
+
+## Imagens do projeto
+<p align="center">
+  <img src="https://github.com/GiselleBarbosa/crud-javascript/blob/main/src/img/Tela%20Login.jpg?raw=true" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/GiselleBarbosa/crud-javascript/blob/main/src/img/Tela%20inicial.jpg?raw=true" />
+</p>
