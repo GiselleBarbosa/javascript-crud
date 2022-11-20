@@ -1,0 +1,19 @@
+[
+	{ 
+    "nome": "Joao", 
+    "funcao": "frontend", 
+    "salario": 2500 
+  },
+
+	{ 
+    "nome": "Maria", 
+    "funcao": "backend", 
+    "salario": 2600 
+  },
+
+	{ 
+    "nome": "Jose", 
+    "funcao": "fullstack", 
+    "salario": 3400 
+  }
+]
